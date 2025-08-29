@@ -9,7 +9,7 @@
 1. Open the project using any IDE (VS Code, Eclipse, Notpad++, etc)
 2. Start by going to the directory of the project you are working on  ```cd <directory/here/project-name> ```
 3. To get the latest commit, use ```git pull ```
-4. Now checkout the branch where you want to place your code  ```git checkout <branch-name> ```
+4. Now checkout the branch where you want to place your code  ```git checkout -b <branch-name> ```
 5. Add the changes you want to apply
 6. Use ```git status ``` to show the current state of the repository
 7. Add the files that you what to commit  ```git add . ```
