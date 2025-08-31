@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../C++/.vscode"
+		},
+		{
+			"path": "../../C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iterator": "cpp",
+			"vector": "cpp",
+			"format": "cpp",
+			"initializer_list": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"xlocinfo": "cpp"
+		}
+	}
+}
